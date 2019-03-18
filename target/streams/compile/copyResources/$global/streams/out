@@ -1,0 +1,7 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/amaraj0/intellijSbt/SparkScala2/src/main/resources/scripts,/Users/amaraj0/intellijSbt/SparkScala2/target/scala-2.11/classes/scripts)[0m
+[0m[[0mdebug[0m] [0m	(/Users/amaraj0/intellijSbt/SparkScala2/src/main/resources/hbase-site.xml,/Users/amaraj0/intellijSbt/SparkScala2/target/scala-2.11/classes/hbase-site.xml)[0m
+[0m[[0mdebug[0m] [0m	(/Users/amaraj0/intellijSbt/SparkScala2/src/main/resources/arguments,/Users/amaraj0/intellijSbt/SparkScala2/target/scala-2.11/classes/arguments)[0m
+[0m[[0mdebug[0m] [0m	(/Users/amaraj0/intellijSbt/SparkScala2/src/main/resources/application.properties,/Users/amaraj0/intellijSbt/SparkScala2/target/scala-2.11/classes/application.properties)[0m
+[0m[[0mdebug[0m] [0m	(/Users/amaraj0/intellijSbt/SparkScala2/src/main/resources/scripts/FVshell.sh,/Users/amaraj0/intellijSbt/SparkScala2/target/scala-2.11/classes/scripts/FVshell.sh)[0m
+[0m[[0mdebug[0m] [0m	(/Users/amaraj0/intellijSbt/SparkScala2/src/main/resources/arguments/Arguments_FileValidation.txt,/Users/amaraj0/intellijSbt/SparkScala2/target/scala-2.11/classes/arguments/Arguments_FileValidation.txt)[0m

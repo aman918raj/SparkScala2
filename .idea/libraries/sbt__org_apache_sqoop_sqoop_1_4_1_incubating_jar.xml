@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: org.apache.sqoop:sqoop:1.4.1-incubating:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.sqoop/sqoop/jars/sqoop-1.4.1-incubating.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

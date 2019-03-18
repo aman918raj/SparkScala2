@@ -1,0 +1,6 @@
+jarFile|/Users/amaraj0/intellijSbt/SparkScala1/target/scala-2.11/sparkscala1_2.11-0.1.jar
+hiveWarehouseLocation|/Users/amaraj0/hive/hive-warehouse
+inputPath|/Users/amaraj0/Documents/MyData/FileValidation/data/
+vaildFilesPath|/Users/amaraj0/Documents/MyData/FileValidation/data_files
+invalidFilesPath|/Users/amaraj0/Documents/MyData/FileValidation/invalid_files
+configFile|/Users/amaraj0/Documents/MyData/FileValidation/config/config.json
